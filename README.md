@@ -1,6 +1,6 @@
 # Japanese-language-learning
 
-日本語を勉強しています          ヾ(•ω•`)o
+日本語を勉強しています                     ヾ(•ω•`)o
 
 This repository is simple. it contains a single file titled "日本語筆記.md," where I keep my study notes as I learn Japanese.
 
