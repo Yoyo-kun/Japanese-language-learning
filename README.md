@@ -10,6 +10,6 @@ You can use the Kana-Randomizer.exe to help you remember better.（More detail�
 
 你可以用假名随机生成器来帮助更好记忆假名。（更多细节：https://github.com/Yoyo-kun/Kana-Randomizer/）
 
-Update approximately once a week.
+I aim to update this note approximately once a week.
 
-大约每周更新一次。
+我计划每周更新此笔记。
